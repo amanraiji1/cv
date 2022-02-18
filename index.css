@@ -1,0 +1,21 @@
+.b1{
+  background-color: green;
+}
+.d1{
+  background-color: red;
+}
+.d2{
+  background-color: yellow;
+}
+.d3{
+  background-color: pink;
+  height: 300px;
+  overflow: scroll;
+}
+.d4{
+  background-color: blue;
+}
+.main{
+  background-color: grey;
+  height: 1200px;
+}
